@@ -1,6 +1,6 @@
-# Public domain texts from [Project Ben-Yehuda](https://bybe.benyehuda.org)
+# Public domain texts from [Project Ben-Yehuda](https://benyehuda.org)
 
-This repository contains a dump of thousands of public domain works in Hebrew, from [Project Ben-Yehuda](https://bybe.benyehuda.org), in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files. The pseudocatalogue.csv file is a list of titles, authors, genres, and file paths, to help you process the dump.
+This repository contains a dump of thousands of public domain works in Hebrew, from [Project Ben-Yehuda](https://benyehuda.org), in plaintext UTF-8 files, with and without diacritics (nikkud), and in HTML files. The pseudocatalogue.csv file is a list of titles, authors, genres, and file paths, to help you process the dump.
 
 The Releases tab contains a downloadable ZIP archive of the full release.  The git repo can be used to track individual file changes, or for incremenetal updates.
 In the ZIPs, each format (plaintext, plaintext stripped of diacritics, and HTML) has a ZIP file containing one directory per author, with all the author's works under that directory.
