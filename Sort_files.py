@@ -23,7 +23,7 @@ csv_file = 'pseudocatalogue.csv'  # Replace with the path to your CSV file
 df = pd.read_csv(csv_file)
 
 # Specify the main folder where subfolders will be created
-main_folder = '/media/zevi/My Passport/ניסוי/txt'  # Replace with the path to your main folder
+main_folder = 'נתיב לתיקייה'  # Replace with the path to your main folder
 
 # Add the main folder path to the relative paths in column A
 df['Full_Path'] = main_folder + df['path'] + '.txt'  # Replace 'YourPathColumnName'
