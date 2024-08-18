@@ -10,5 +10,6 @@ with open("not_seported.txt", "r", encoding = "utf-8") as ff:
 				src = os.path.join("html", path)
 				dest = os.path.join(i, path)
 				folder = os.path.join(list_file(os.path.split(dest)[:-1])
+
 				os.mkdir(folder, exist_ok=True)
 				shutil.copy(src, dest)
