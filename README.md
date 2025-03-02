@@ -4,7 +4,7 @@ This repository contains a dump of over twenty thousand public domain works in H
 
 The *Releases* tab contains a downloadable ZIP archive of the full release.  The git repo can be used to track individual file changes, or for incremental updates.
 
-In the ZIPs, each format (plaintext, plaintext stripped of diacritics, and HTML) has a ZIP file containing one directory per author, with all the author's works under that directory.
+Each format (plaintext, plaintext stripped of diacritics, and HTML) has a ZIP file containing one directory per author, with all the author's works under that directory.
 
 To request changes or improvements to this dump, file an issue against this repository.
 
