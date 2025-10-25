@@ -135,7 +135,7 @@
 
 
 
-Factor  ↩
+Factor &nbsp;↩
 
 
 

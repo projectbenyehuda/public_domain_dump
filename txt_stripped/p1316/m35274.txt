@@ -3096,7 +3096,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 מקבלים כ־30% של מרגרינה, היינו: 120 טון. בהביאנו בחשבון את הצורך של 25%
 עובדים באריזה וכן עובדי־אדמיניסטרציה, נקבל מספר־פועלים כזה:
 
-
+ 
 
 
 שנה
@@ -3108,7 +3108,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 
 
 
- 
+
 
   הראשונה
   27  	
@@ -3225,7 +3225,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 
 
 
-
+ 
 
 
 שנה
@@ -3235,7 +3235,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 
 
 
- 
+
 
 
 
@@ -3874,7 +3874,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 
 א. תנועה במספר הפועלים ועובדי־האדמיניסטרציה:
 
-
+ 
 
 
  
@@ -3884,7 +3884,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 
 
 
- 
+
 
 
 
@@ -4207,7 +4207,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 
 1. מספר הפועלים והעובדים בארבעת ענפי התעשיה
 
-
+ 
 
 
  
@@ -4217,7 +4217,7 @@ I. תעשיה לייצור מוצרים לצריכה מהירה
 
 
 
- 
+
 
 
 
@@ -4717,7 +4717,7 @@ II תעשית סחורות לשימוש ממושך ואמצעי־ייצור
 
 
 
-
+ 
 
 
 שנה
@@ -4729,7 +4729,7 @@ II תעשית סחורות לשימוש ממושך ואמצעי־ייצור
 
 
 
- 
+
 
   הראשונה
   2600  
@@ -4979,7 +4979,7 @@ __________
 
 
 
-
+ 
 
 
 שנה
@@ -4991,7 +4991,7 @@ __________
 
 
 
- 
+
 
   הראשונה
   475  
@@ -5092,7 +5092,7 @@ __________
 
 1. מספר הפועלים
 
-
+ 
 
 
 שנה
@@ -5104,7 +5104,7 @@ __________
 
 
 
- 
+
 
   הראשונה
   650  
@@ -5204,7 +5204,7 @@ __________
 
 1. מספר העובדים
 
-
+ שלישית			
 
 
 שנה
@@ -5215,7 +5215,7 @@ __________
 
  
 
- 
+
 
   הראשונה
   1900  
@@ -5228,7 +5228,7 @@ __________
    650  
    2885  
 
-שלישית			
+
 
 
    השלישית	
@@ -5313,7 +5313,7 @@ __________
 ועליה גדולה, 1937, שנת המיפקד של התעשיה, ושנת 1938, שנה לפני המלחמה ושפל
 כלכלי שנגרם על ידי המאורעות שארכו בארץ שלוש שנים.
 
-
+ 
 
 
 סוג החומר
@@ -5324,7 +5324,7 @@ __________
 
  
 
- 
+
 
  עצי־בנין מטר*
   200337  
@@ -5356,7 +5356,7 @@ __________
 הקוניונקטורה על תצרוכת העצים במלוא היקפה, נחלק כמויות אלו על כל
 האוכלוסיה היהודית ואז יתקבלו על כל תושב יהודי המספרים האלה:
 
-
+ 
 
 
 הסוג  
@@ -5367,7 +5367,7 @@ __________
 
  
 
- 
+
 
  עצי־בנין מ*
   0.630  
@@ -5416,7 +5416,7 @@ __________
 
 
 
-
+ 
 
 
 שנה
@@ -5427,7 +5427,7 @@ __________
 
  
 
- 
+
 
   הראשונה
   4130  
@@ -5608,7 +5608,7 @@ __________
 
 
 
-
+ 
 
 
 שנה
@@ -5619,7 +5619,7 @@ __________
 
  
 
- 
+
 
   הראשונה
   9950  
@@ -5771,7 +5771,7 @@ __________
 
 1. מספר העובדים
 
-
+ 
 
 
 שנה
@@ -5782,7 +5782,7 @@ __________
 
  
 
- 
+
 
   הראשונה
   1260  
@@ -5896,7 +5896,7 @@ ______________
 
 1. מספר העובדים
 
-
+ 
 
 
 שנה
@@ -5907,7 +5907,7 @@ ______________
 
  
 
- 
+
 
   הראשונה
   1900  
@@ -6084,7 +6084,7 @@ ______________
 
 מספר העובדים
 
-
+ 
 
 
 שנה
@@ -6095,7 +6095,7 @@ ______________
 
  
 
- 
+
 
   הראשונה
   1260  
@@ -9584,209 +9584,209 @@ III. סעיפי היבוא האחרים
 
 
 The Land Tenure Systems in Europe, League
-of Nations 1939. Technical Documentations.  ↩
+of Nations 1939. Technical Documentations. &nbsp;↩
 
 
 
 The Industrialisation of Agricultural
-Countries“, the Economic Journal, July־September 1943.”  ↩
+Countries“, the Economic Journal, July־September 1943.” &nbsp;↩
 
 
 
-הרכב החברים באגודות המקצועיות של ארצות הברית  באחוזים (לפי Recent Social Trends, v. 2. p. 834):  ↩
+הרכב החברים באגודות המקצועיות של ארצות הברית  באחוזים (לפי Recent Social Trends, v. 2. p. 834): &nbsp;↩
 
 
 
-“Comparative Cost”.  ↩
+“Comparative Cost”. &nbsp;↩
 
 
 
 A.J. Brown: Industrialisation and Trade,
 London, Royal Inst. of International Affairs, Oxford University
-Press, p. 5.  ↩
+Press, p. 5. &nbsp;↩
 
 
 
-ראה בפרק תצואות מושוות.  ↩
+ראה בפרק תצואות מושוות. &nbsp;↩
 
 
 
-החרושת, התחבורה והמסחר העברי, טבלה 5, דרגה ב‘ וג’  יחד.  ↩
+החרושת, התחבורה והמסחר העברי, טבלה 5, דרגה ב‘ וג’  יחד. &nbsp;↩
 
 
 
 Capital Expansion, Employment and Economic
 Stability by Harold J. Moulton, George W. Edwards, James D. Magie,
-Cleana Lewis. The Brookings Institution, Washington, 1940.  ↩
+Cleana Lewis. The Brookings Institution, Washington, 1940. &nbsp;↩
 
 
 
 בנוגע לחימיה קבענו את ההשקעה לפי טבלת בראון,
 המדברת רק על זבלים חימיים. לפי מולטון ואחרים יוצא, שב־1937 היתה
 ההשקעה בענף החימיה במפעלים גדולים 3060 לירות שטרלינג. מטעם זה נכון
-יותר יהיה לציין את ענף החימיה ב־1, ולא ב־2.  ↩
+יותר יהיה לציין את ענף החימיה ב־1, ולא ב־2. &nbsp;↩
 
 
 
 Paul H. Douglas, The Theory of Wages, New
-York, 1934.  ↩
+York, 1934. &nbsp;↩
 
 
 
 Output, Employment and Wages in the United
 Kingdom 1924, 1934, 1935. London and Cambridge Economic Service,
-Memorandum N 47.  ↩
+Memorandum N 47. &nbsp;↩
 
 
 
-Statesman's Yearbook 1943. London.  ↩
+Statesman's Yearbook 1943. London. &nbsp;↩
 
 
 
-נעשה נסיון רק בזמן המלחמה.  ↩
+נעשה נסיון רק בזמן המלחמה. &nbsp;↩
 
 
 
-ראה למעלה: “תשואהנקיה של פועל…”  ↩
+ראה למעלה: “תשואהנקיה של פועל…” &nbsp;↩
 
 
 
 Capital Expansion, Employment and Economic
-Stability, Appendix C, pp. 563–564.  ↩
+Stability, Appendix C, pp. 563–564. &nbsp;↩
 
 
 
 Simon Kuznets, National Income and Capital
-Formation 1919–1935. A preliminary report, New York 1937.  ↩
+Formation 1919–1935. A preliminary report, New York 1937. &nbsp;↩
 
 
 
-באנגליה צריכת מוצרי כותנה היא 13.6 ק"ג לנפש  לשנה.  ↩
+באנגליה צריכת מוצרי כותנה היא 13.6 ק"ג לנפש  לשנה. &nbsp;↩
 
 
 
-צלולוזה.  ↩
+צלולוזה. &nbsp;↩
 
 
 
-דוד הורוביץ, הכלכלה הארצישראלי בהתפתחותה,  214.  ↩
+דוד הורוביץ, הכלכלה הארצישראלי בהתפתחותה,  214. &nbsp;↩
 
 
 
-השיפור הגדול במצבו של המפעל, לאחר שעבר לידי  “סולל־בונה”, מצדיק את הנחתנו.  ↩
+השיפור הגדול במצבו של המפעל, לאחר שעבר לידי  “סולל־בונה”, מצדיק את הנחתנו. &nbsp;↩
 
 
 
-בשעת הדפסת הספר עברו מניות “שמן” לידי  יהודים.  ↩
+בשעת הדפסת הספר עברו מניות “שמן” לידי  יהודים. &nbsp;↩
 
 
 
-Harry Barron, Modern Synthetic Rubbery.  ↩
+Harry Barron, Modern Synthetic Rubbery. &nbsp;↩
 
 
 
-בלי זו של חברת האשלג.  ↩
+בלי זו של חברת האשלג. &nbsp;↩
 
 
 
-בלי זו של חברת האשלג.  ↩
+בלי זו של חברת האשלג. &nbsp;↩
 
 
 
-מפעל “פניציה” השיג תוצאות מניחות את הדעת בעיבוד  חול המובא מארצות השכנות.  ↩
+מפעל “פניציה” השיג תוצאות מניחות את הדעת בעיבוד  חול המובא מארצות השכנות. &nbsp;↩
 
 
 
-ציפה – עיסת־עץ, פולפה.  ↩
+ציפה – עיסת־עץ, פולפה. &nbsp;↩
 
 
 
-Blake, The Mineral Resources of Palestine  and Trans־Jordan.  ↩
+Blake, The Mineral Resources of Palestine  and Trans־Jordan. &nbsp;↩
 
 
 
-Tarr, Introductory Economic Geology, 1938.  ↩
+Tarr, Introductory Economic Geology, 1938. &nbsp;↩
 
 
 
-למעשה יש בארץ כמה התחלות של תעשיות שונות מסוג זה,  אבל היקפן וציודן מוגבלים.  ↩
+למעשה יש בארץ כמה התחלות של תעשיות שונות מסוג זה,  אבל היקפן וציודן מוגבלים. &nbsp;↩
 
 
 
 Herman Finer, Municipal Trading, London,
-1941.  ↩
+1941. &nbsp;↩
 
 
 
-קיים בארץ מפעל אחד לייצור כרביד, אבל הוא עובד  בתנאים שייצורו עשוי להיות רנטבילי רק בזמן המלחמה.  ↩
+קיים בארץ מפעל אחד לייצור כרביד, אבל הוא עובד  בתנאים שייצורו עשוי להיות רנטבילי רק בזמן המלחמה. &nbsp;↩
 
 
 
 Harry Barron, Modern Synthetic Rubbers,
-London, 1943.  ↩
+London, 1943. &nbsp;↩
 
 
 
-שנתון פלניוס, 1936.  ↩
+שנתון פלניוס, 1936. &nbsp;↩
 
 
 
 התעשיה החימית והמטלורגית החדישה דורשת לעתים
 טמפרטורות של 3000 מעלות. ביח"ר קטן לגומי סינתטי המייצר 5000 טון גומי
-לשנה (מאציטלן) נזקק ל־200 מיליון קילוואט חשמל לייצור כרביד.  ↩
+לשנה (מאציטלן) נזקק ל־200 מיליון קילוואט חשמל לייצור כרביד. &nbsp;↩
 
 
 
-Capital Expansion and… 364  ↩
+Capital Expansion and… 364 &nbsp;↩
 
 
 
 Robert B. Warren, The Search for Financial
-Security, New York, Columbia University Press, 1940.  ↩
+Security, New York, Columbia University Press, 1940. &nbsp;↩
 
 
 
 S.S. Metz, New Money for New Men, London,
-Macmilian &amp; C., 1938.  ↩
+Macmilian &amp; C., 1938. &nbsp;↩
 
 
 
-Holding.  ↩
+Holding. &nbsp;↩
 
 
 
-Maurice Dobb, Wages, Cambridge, 1943.  ↩
+Maurice Dobb, Wages, Cambridge, 1943. &nbsp;↩
 
 
 
 Herman Levy, The New Industrial System,
-London, 1936.  ↩
+London, 1936. &nbsp;↩
 
 
 
 A.G. Pool, Wage Policy in Relation to
-Industrial Fluctuations, London, 1938.  ↩
+Industrial Fluctuations, London, 1938. &nbsp;↩
 
 
 
 Samuel Curtauld, An Industrialist's
 Reflections on the Future Relations of Government and Industrie, The
-Economic Journal, April 1942, N 205.  ↩
+Economic Journal, April 1942, N 205. &nbsp;↩
 
 
 
 “Workers and Bosses Are Human”, Public
-Affairs Pamflets, N 76, 1943.  ↩
+Affairs Pamflets, N 76, 1943. &nbsp;↩
 
 
 
-י. קניבסקי, הביטוח הסוציאלי בארץ־ישראל. ת“א,  תש”ב.  ↩
+י. קניבסקי, הביטוח הסוציאלי בארץ־ישראל. ת“א,  תש”ב. &nbsp;↩
 
 
 
 “World Economic Development Effects on
 Advanced Industrial Countries” by Eugen Stally, Montral,
-International Labour Office, 1944.  ↩
+International Labour Office, 1944. &nbsp;↩
 
 
 

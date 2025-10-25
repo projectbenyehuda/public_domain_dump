@@ -2,7 +2,7 @@
 
 
 	
-	האגרת.
+	האגרת
 	
 
 
@@ -520,206 +520,206 @@ ______________
 
 
 
-306=ד“א ס”ו.  ↩
+306=ד“א ס”ו. &nbsp;↩
 
 
 
-313=ע"ג.  ↩
+313=ע"ג. &nbsp;↩
 
 
 
-Milano.  ↩
+Milano. &nbsp;↩
 
 
 
-Codex Theodosianus.  ↩
+Codex Theodosianus. &nbsp;↩
 
 
 
-Nicaea.  ↩
+Nicaea. &nbsp;↩
 
 
 
-325=פ"ה.  ↩
+325=פ"ה. &nbsp;↩
 
 
 
-Eusebius, de vita Const. III..  ↩
+Eusebius, de vita Const. III.. &nbsp;↩
 
 
 
-337=צ"ז.  ↩
+337=צ"ז. &nbsp;↩
 
 
 
-אגרת רש"ג.  ↩
+אגרת רש"ג. &nbsp;↩
 
 
 
 אותו החרימה האספה הניקיאית על אשר מעט את הדמות – כי הוא כחש
 בקדמות האלוה–הבן ובשווי ערכו לאלוה–האב. והמחלקת ידועה בדברי ימי הדת
-בשם השווי (Homousie) והדמיון (Homöusie).  ↩
+בשם השווי (Homousie) והדמיון (Homöusie). &nbsp;↩
 
 
 
-351=קי"א.  ↩
+351=קי"א. &nbsp;↩
 
 
 
-ירושלמי שביעית פ“ד ה”א.  ↩
+ירושלמי שביעית פ“ד ה”א. &nbsp;↩
 
 
 
-352=קי"ב.  ↩
+352=קי"ב. &nbsp;↩
 
 
 
-Hieronymus Chronicon, פסיקתא רבתי פ‘ ח’ ג'.  ↩
+Hieronymus Chronicon, פסיקתא רבתי פ‘ ח’ ג'. &nbsp;↩
 
 
 
-בראשית רבה ל"א.  ↩
+בראשית רבה ל"א. &nbsp;↩
 
 
 
-סנהדרין י"ג.  ↩
+סנהדרין י"ג. &nbsp;↩
 
 
 
-ב“מ פ”ו.  ↩
+ב“מ פ”ו. &nbsp;↩
 
 
 
-תענית כ“ד:, ב”ב י':, פסחים קט"ז:.  ↩
+תענית כ“ד:, ב”ב י':, פסחים קט"ז:. &nbsp;↩
 
 
 
-356.  ↩
+356. &nbsp;↩
 
 
 
-Strassburg.  ↩
+Strassburg. &nbsp;↩
 
 
 
-Paris.  ↩
+Paris. &nbsp;↩
 
 
 
-360–ק"ך.  ↩
+360–ק"ך. &nbsp;↩
 
 
 
-361–קכ"א.  ↩
+361–קכ"א. &nbsp;↩
 
 
 
-מבוא הירושלמי להרז“פ, ס”ה.  ↩
+מבוא הירושלמי להרז“פ, ס”ה. &nbsp;↩
 
 
 
-Clinton, Fasti Romani I p. 454.  ↩
+Clinton, Fasti Romani I p. 454. &nbsp;↩
 
 
 
 הם שלשה יועצי בליעל שהיו לקונסטנציוס: פולוס קטינא, עפידמיוס
-ואיזביוס (Grätx. G. d. J. IV. Anm. 2 zu Note 34.).  ↩
+ואיזביוס (Grätx. G. d. J. IV. Anm. 2 zu Note 34.). &nbsp;↩
 
 
 
-“יכר” במקור המודפס, צ“ל: זכר – הערת פב”י.  ↩
+“יכר” במקור המודפס, צ“ל: זכר – הערת פב”י. &nbsp;↩
 
 
 
-בחרף 363 – קכ"ג.  ↩
+בחרף 363 – קכ"ג. &nbsp;↩
 
 
 
-Oratio.  ↩
+Oratio. &nbsp;↩
 
 
 
-Ed. Spanhemius p. 359.  ↩
+Ed. Spanhemius p. 359. &nbsp;↩
 
 
 
-דניאל י“א ל”ד.  ↩
+דניאל י“א ל”ד. &nbsp;↩
 
 
 
-Hieronymus, Comm. Danielem.  ↩
+Hieronymus, Comm. Danielem. &nbsp;↩
 
 
 
-ירושלמי נדרים פ“ג ה”א.  ↩
+ירושלמי נדרים פ“ג ה”א. &nbsp;↩
 
 
 
-חרב עקומה מעשה החרשים המהללים אשר בעיר דמשק.  ↩
+חרב עקומה מעשה החרשים המהללים אשר בעיר דמשק. &nbsp;↩
 
 
 
-Kolb. Kulturgesch. I, 346  ↩
+Kolb. Kulturgesch. I, 346 &nbsp;↩
 
 
 
-יוני 363=קכ"ג.  ↩
+יוני 363=קכ"ג. &nbsp;↩
 
 
 
-בראשית שנת 364=קכ"ד.  ↩
+בראשית שנת 364=קכ"ד. &nbsp;↩
 
 
 
-עד 375=קל"ה.  ↩
+עד 375=קל"ה. &nbsp;↩
 
 
 
-עד 378=קל"ח.  ↩
+עד 378=קל"ח. &nbsp;↩
 
 
 
-388.  ↩
+388. &nbsp;↩
 
 
 
-Ambrosii epistolae № 29..  ↩
+Ambrosii epistolae № 29.. &nbsp;↩
 
 
 
-408–450.  ↩
+408–450. &nbsp;↩
 
 
 
-415=קע"ה.  ↩
+415=קע"ה. &nbsp;↩
 
 
 
-Socrates hist. eccles. VII, 15.  ↩
+Socrates hist. eccles. VII, 15. &nbsp;↩
 
 
 
-Corvin, 149.  ↩
+Corvin, 149. &nbsp;↩
 
 
 
-Puerto Mahon.  ↩
+Puerto Mahon. &nbsp;↩
 
 
 
-Epistola Severi.  ↩
+Epistola Severi. &nbsp;↩
 
 
 
-ישעי' כ“ד כ”א.  ↩
+ישעי' כ“ד כ”א. &nbsp;↩
 
 
 
-מדרש תהלים ל"ו.  ↩
+מדרש תהלים ל"ו. &nbsp;↩
 
 
 
-ויקרא כ“ו מ”ד.  ↩
+ויקרא כ“ו מ”ד. &nbsp;↩
 
 
 

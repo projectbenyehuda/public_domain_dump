@@ -2,22 +2,24 @@
 
 
 	
-	אגרות כרך א: כ"ג כסלו תקצ"ח - כ"ו סיון תקצ"ח
+	אגרות CLXXVIII עד CXCVIII
 	
 
 
 
-Nr. CLXXVIII
+ Nr. CLXXVIII
+
+
 
 An Herrn D. J. Maroni in Novellara
 
-
-
-
-
 Vol I Nr. 13 Nr. D' ordre de Ì̀Index rais 137.
 
-כ"ג כסלו התקצ”ח 21. 12. 1837.
+21.12.1837
+
+
+
+כ"ג כסלו התקצ”ח
 
 לכבוד ידידי המשכיל והנבון מהה"ר דוד יעקב מארוני שלום.
 
@@ -150,25 +152,21 @@ tuoi ozϋ במלת משבתיך; גם השתמשך במלת גהק הנהוגה 
 
 
 
+ Nr. CLXXIX
 
 
-Nr CLXXIX
 
 An Herrn Dr. Leopold Dukes in Berlin
 
-
-
-
-
 Nr. D’ ordre de I’Index rais. 138. Vol. I Nr. 15.
 
+24.12.1837
 
 
 
 
-כ"ו כסלו התקצ”ח 24.12.1837
 
-
+כ"ו כסלו התקצ”ח
 
 
 
@@ -212,19 +210,21 @@ Cochin); ואתה ידידי תעשה חסד עמדי אם תערוך לפני �
 
 
 
+ Nr. CLXXX
+
 
 
 Nr. CLXXX
 
 An Herrn Dr. M. Letteris in Pressburg
 
-
-
-
-
 Vol. I. Nr. 17 D’rdre d' ordre I’Index rais 141
 
-א' טבת התקצ”ח 29.12.1837
+29.12.1837
+
+
+
+א' טבת התקצ”ח
 
 לידידי למה"ל שלום
 
@@ -240,23 +240,19 @@ Vol. I. Nr. 17 D’rdre d' ordre I’Index rais 141
 
 
 
+ Nr. CLXXXI
 
 
-
-
-
-
-Nr CLXXXI
 
 An Herrn Joseph Alschari und Fr. Delitzsch in Leipzig
 
-
-
-
-
 Nr. D’ ordre de I’Index rais. 142. Vol. I Nr. 18.
 
-ט"ו טבת התקצ”ח 12.1.1838
+12.1.1838
+
+
+
+ט"ו טבת התקצ”ח
 
 לכבוד ידידי החכמים המפוארים יוסף אלשרי ופראנץ דעליטש שלום.
 
@@ -311,19 +307,19 @@ Grammatica ragionata אשר כתבתי לתלמידי; והנני שולח לכ�
 
 
 
+ Nr. CLXXXII
 
 
-Nr. CLXXXII
 
 An Herrn Dr. M. L. Letteris in Pressburg
 
-
-
-
-
 Nr. D’ordre de I’Index raisonné 143. Vol. I Nr. 19
 
-כ"א טבת התקצ”ח 18.1.1838
+18.1.1838
+
+
+
+כ"א טבת התקצ”ח
 
 אגרת 11 Nr. אבדה ולא הגיעה לידו2, והעתקתיה לו שנית, עד ואשלימה באחד בשבת, אח"כ כתבתי:
 
@@ -377,19 +373,19 @@ Nr. D’ordre de I’Index raisonné 143. Vol. I Nr. 19
 
 
 
+ Nr. CLXXXIII
 
 
-Nr. CLXXXIII
 
 Nr. Herrn Joseph Almanzi in Padoue
 
-
-
-
-
 Nr. D’ordre de I’Index raisonné 144. Vol, I. Nr. 21.
 
-כ"ח טבת התקצ”ח 25.1.1838.
+25.1.1838
+
+
+
+כ"ח טבת התקצ”ח
 
 
 אלמאנצי שלום לפ"ק
@@ -413,15 +409,19 @@ Nr. D’ordre de I’Index raisonné 144. Vol, I. Nr. 21.
 
 
 
+ Nr. CLXXX1
 
 
-Nr. OLXXX
 
 Nr. Herrn Os. H. Schorr in Brody
 
 Nr. d’ordre de I’Index raisonné 145. Vlo I Nr. 22
 
-ז' שבט התקצ”ח 2.2.1838.
+2.2.1838
+
+
+
+ז' שבט התקצ”ח
 
 לכבוד ידידי הבחור המשכיל והנבון כמ"ר יהושע שור שלום רב.
 
@@ -437,19 +437,19 @@ Nr. d’ordre de I’Index raisonné 145. Vlo I Nr. 22
 
 
 
+ Nr. CLXXXV
 
 
-
-
-
-
-Nr. CLXXXV
 
 An Herrn S. L. Goldenberg in Tarnopol
 
 Nr. d’ordre de I’Index raisonne 146. Vol. I. Nr. 23
 
-ט' וי"ג שבט התקצ”ח 4. Ed 8. 2. 1838.
+4&amp;8.2.1838
+
+
+
+ט' וי"ג שבט התקצ”ח
 
 לכבוד ידידי המשכיל והנבון כמ"ר שמואל ליב גאלדענבערג שלום.
 
@@ -472,11 +472,9 @@ Nr. d’ordre de I’Index raisonne 146. Vol. I. Nr. 23
 לספרו קורא הדורות את שם קאללעגיוס ראביניקוס אשר בפאדובה, לעקסמפלאר
 אחד.
 
-ואתה שלום וביתך שלום, והחכמים המופלאים הכהנים והגביר הנ“ל שלום, כנפשכם וכנפש **הכו”ח פה פאדובה יום ט' שבט** לפ"ק.
+ואתה שלום וביתך שלום, והחכמים המופלאים הכהנים והגביר הנ“ל שלום, כנפשכם וכנפש הכו"ח פה פאדובה יום ט' שבט לפ”ק.
 
 ידידכם שד"ל
-
-
 
 
 
@@ -511,35 +509,35 @@ Nr. d’ordre de I’Index raisonne 146. Vol. I. Nr. 23
 
 
 
+ Nr. CLXXVI5
 
 
-Nr. CLXXXVI5
 
 An Herrn I. S Reggio in Görz
 
-
-
-
-
 No. d’ ordre de I’Index raisonné 147 Vo. I Nr. 24
 
-ג' אדר התקצ”ח 28.2.1838
+28.2.1838
 
 
 
+ג' אדר התקצ”ח
 
 
-Nr CLXXXVII
+
+ Nr. CLXXXVII
+
+
 
 An Herrn Dr. M. L. Letteris in Pressburg
 
-
-
-
-
 Nr. D’ordre de I’Index raisonne 148. Vol. I Nr. 25
 
-ט' אדר התקצ"ח 6.3.1838
+6.3.1838
+
+
+
+ט' אדר התקצ"ח
 
 לידידי המליץ והמשורר המפואר מאיר הלוי לעטעריס שלום.
 
@@ -580,15 +578,19 @@ Prolegomeni, בשם געזעניוס, וכל עוד שלא אראה הדף הה�
 
 
 
+ Nr. CLXXXVIII
 
 
-Nr. CLXXXVIII
 
 An Herrn Dr. M. L. Letteris in Pressburg
 
 Nr. D’ordre de I’ Indexraisonné 149. Vol I Nr. 26
 
-י“ד אדר התקצ”ח 11.3.1838.
+11.3.1838
+
+
+
+י“ד אדר התקצ”ח
 
 לכבוד ידידי המליץ והמשורר המפואר כמ"ר מאיר הלוי שלום.
 
@@ -606,15 +608,19 @@ Nr. D’ordre de I’ Indexraisonné 149. Vol I Nr. 26
 
 
 
+ Nr. CLXXXIX
 
 
-Nr. CLXXXIX
 
 An Herrn D. Leopold Znnz in Berlin
 
 Nr. D’ ordre de I’Index. Rais 151 Vol. I Nr. 27
 
-א' ניסן התקצ"ח 27.3.1838.
+27.3.1838
+
+
+
+א' ניסן התקצ"ח
 
 לדודי החכם המופלא יום טוב צונץ
 
@@ -691,15 +697,19 @@ Nr. D’ ordre de I’Index. Rais 151 Vol. I Nr. 27
 
 
 
+ Nr. CXC
 
 
-Nr. CXC
 
 An Herrn Dr. M. L. Letteris in Pressburg
 
 Nr. D’ordre de I’Index raisonne 152. Vol I nr. 28
 
-א' ניסן התקצ"ח 27.3.1838
+27.3.1838
+
+
+
+א' ניסן התקצ"ח
 
 לידידי המליץ והמשורר היקר רמה"ל שלום
 
@@ -755,27 +765,35 @@ c.m. וזה בעיני גוזמא כי שתי פעמים אחרות שלחתי �
 
 
 
+ Nr. CXC7
 
 
-Nr. CXCI7
 
 An Herrn I. S. Reggio in Görz
 
 Nr. d’ ordre de I’Index raisonne 153 Vol. I Nr. 29
 
-ה' ניסן התקצ"ח 3.4.1838
+3.4.1838
 
 
 
+ה' ניסן התקצ"ח
 
 
-Nr CXCII
+
+ Nr. CXCII
+
+
 
 An Herrn Dr. Leopold Dukes in Amsterdam
 
 Nr. d’ ordre de I’Index rais 154 Vol. I. Nr. 30
 
-ו' אייר התקצ"ח 1.5.1838
+1.5.1838
+
+
+
+ו' אייר התקצ"ח
 
 לידידי המשכיל והנבון כמ"ר יהודה ליב דוקעס ברכה ושלום.
 
@@ -844,7 +862,7 @@ Nr. d’ ordre de I’Index rais 154 Vol. I. Nr. 30
 
 כאש אשר תשא קנה בשם, ואך תשא עתר ריחו ותמציאנו
 
-ותחזק רוח, ואל-אף תעביר רוח נרדינו ודודאינו
+ותחזק רוח, ואל־אף תעביר רוח נרדינו ודודאינו
 
 ודע כי מלת תשא הראשונה ענין שרפה, והשנית ענין משא
 והבאה.
@@ -890,7 +908,7 @@ Nr. d’ ordre de I’Index rais 154 Vol. I. Nr. 30
 קל“ה ל”ב בתים, כתבם ר' יוסף בן סהל בשבח ר' משה אבן עזרא.
 קמ“ד מ”ה בתים, בנשואי אבו אלחסן בן מאטר, ושמו בלה“ק שלמה.
 קמ”ה י“ב בתים לר' יוסף בן סהל בשבח ר' משה אבן עזרא
-קנ”ו חמשים בתים בשבח יועץ המלך (אל-וזיר) אבו אסחק בן מחאגר, ושמו בלה“ק
+קנ”ו חמשים בתים בשבח יועץ המלך (אל־וזיר) אבו אסחק בן מחאגר, ושמו בלה“ק
 נראה שהיה אברהם.
 קע”ג ז' בתים, על ימי חייו אשר ברחו לא ראו טובה, ואז כבר עברו עליו ששים
 שנה.
@@ -964,15 +982,19 @@ Nr. d’ ordre de I’Index rais 154 Vol. I. Nr. 30
 
 
 
+ Nr. CXCIII
 
 
-Nr. CXCIII
 
 An Herrn D. J. Maroni in Novellara
 
 Nr. d’ ordre de I’Index rais. 155. Vol I. Nr 31
 
-א' סיון התקצ"ח 25.5.1838
+25.5.1838
+
+
+
+א' סיון התקצ"ח
 
 לכבוד ידידי החכם והנכון כמהח"ר דוד יעקב ברכה ושלום.
 
@@ -992,15 +1014,19 @@ Nr. d’ ordre de I’Index rais. 155. Vol I. Nr 31
 
 
 
+ Nr. CXXVI
 
 
-Nr. CXCVI
 
 An Herrn Jacob Bodek in Lemberg
 
 Nr. d’ ordre de I’Index rais. 156 Vol. I Nr. 32
 
-ג' סיון התקצ"ח 27.5.1838
+27.5.1838
+
+
+
+ג' סיון התקצ"ח
 
 לכבוד ר' יעקב בודק שלום.
 
@@ -1048,15 +1074,19 @@ Nr. d’ ordre de I’Index rais. 156 Vol. I Nr. 32
 
 
 
+ Nr. CXCV
 
 
-Nr. CXCV
 
 An Herrn Ephraim Isr. Blucher in Prossnitz
 
 Nr. d’ordre de IIndex raisonne 157. Vol. I Nr. 33
 
-י“ח סיון התקצ”ח 11.6.1838
+11.6.1838
+
+
+
+י“ח סיון התקצ”ח
 
 לכבוד אדוני החכם כ"ש אפרים ישראל בליחער שלום אמת.
 
@@ -1111,29 +1141,37 @@ Prolegomeni ad una Gramatica ragionata della lingua ebraica הנדפס בעיר 
 
 
 
+ Nr. CXCVI8
 
 
-Nr. CXCVI8
 
 An Herrn I. S. Reggio in Görez
 
 Nr. d’ordre de I’ Index raisonné 158. Vol I. Nr. 34
 
-ד' סיון התקצ"ח 13.6.1838
+13.6.1838
+
+
+
+ד' סיון התקצ"ח
 
 לידיד נפשי החכם המפואר יש"ר ברכה ושלום
 
 
 
+ Nr. CXCVII
 
 
-Nr. CXCVII
 
 An Herrn N. I. Fischman in Lemberg
 
 Nr. d’ordre de I’Index raisonné 159 Vol. I Nr. 35
 
-כ“ד סיון התקצ”ח 17.6.1838
+17.6.1838
+
+
+
+כ“ד סיון התקצ”ח
 
 לכבוד ר' נחמן יצחק הכהן פישמאן שלום ואמת
 
@@ -1162,15 +1200,19 @@ Nr. d’ordre de I’Index raisonné 159 Vol. I Nr. 35
 
 
 
+ Nr. CXCVIII
 
 
-Nr. CXCVIII
 
 An Herrn Dr. M. L. Letteris in Pressburg
 
 Nr. d’ordre de I’Index raisonné 160. Vol. I. Nr. 36.
 
-כ“ה סיון התקצ”ח 18.6.1838
+18.6.1838
+
+
+
+כ“ה סיון התקצ”ח
 
 לכובד ידידי המליץ והמשורר היקר החכם מה"ל שלום.
 
@@ -1226,35 +1268,35 @@ Nr. d’ordre de I’Index raisonné 160. Vol. I. Nr. 36.
 
 
 
-אמר המעתיק: השיר הזה נדפס בכנור נעים חלק ב' דף  228.  ↩
+אמר המעתיק: השיר הזה נדפס בכנור נעים חלק ב' דף  228. &nbsp;↩
 
 
 
-אמר המעתיק: רשד"ל רומז לאגרת שכתב אליו ביום ג‘ וה’  כסלו ונאבדה, והקורא ימצאנה בחיבור זה במקומה.  ↩
+אמר המעתיק: רשד"ל רומז לאגרת שכתב אליו ביום ג‘ וה’  כסלו ונאבדה, והקורא ימצאנה בחיבור זה במקומה. &nbsp;↩
 
 
 
-וכעת נמצא אצלי (שזח"ה)  ↩
+וכעת נמצא אצלי (שזח"ה) &nbsp;↩
 
 
 
-אמר המעתיק: השיר הזה נדפס בכנור נעיר ח"ב דף  244.  ↩
+אמר המעתיק: השיר הזה נדפס בכנור נעיר ח"ב דף  244. &nbsp;↩
 
 
 
-אמר ישעיה: האגרת הזאת נדפסה בכרם חמד ד' מדף 131 עד  147.  ↩
+אמר ישעיה: האגרת הזאת נדפסה בכרם חמד ד' מדף 131 עד  147. &nbsp;↩
 
 
 
-במקור המודפס “מים” – הערת פב"י.  ↩
+במקור המודפס “מים” – הערת פב"י. &nbsp;↩
 
 
 
-אמר ישעיה: האגרת הזאת נדפסה בכרם חמד ד' מדף 158 עד  174.  ↩
+אמר ישעיה: האגרת הזאת נדפסה בכרם חמד ד' מדף 158 עד  174. &nbsp;↩
 
 
 
-אמר ישעיה האגרת הזאת נדפסה בכרם חמד ד' מדף 174 עד  204.  ↩
+אמר ישעיה האגרת הזאת נדפסה בכרם חמד ד' מדף 174 עד  204. &nbsp;↩
 
 
 
