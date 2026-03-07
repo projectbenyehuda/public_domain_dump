@@ -1,8 +1,4 @@
-
-
-
-	
-	הדיג
+הדיג
 	
 
 
@@ -150,7 +146,7 @@
 
 
 
-)Nach Goethe’s “Der Fischer”. &nbsp;↩
+) Nach Goethe's "Der Fischer". &nbsp;↩︎
 
 
 

@@ -1,15 +1,11 @@
-
-
-
-	
-	מָגֵן נָשִׁים
+מָגֵן נָשִׁים
 	
 
 
 
 אשר חבר הצעיר יהודה בכ"מ יצחק סומו משער אריה
 
-אל הכבודה מרת חנה מריאיטי מב“ת אשת המפואר כמ”ה ראובן סלם יצ"ו
+אל הכבודה מרת חנה מריאיטי מב"ת אשת המפואר כמ"ה ראובן סלם יצ"ו
 
 
 
@@ -23,9 +19,9 @@
 וְעִבְרִים. כִּי הֱיוֹתִי בַעַר מֵאִישׁ יָדַעְתִּי. וְגַם בִּמְצוּלַת
 טִרְדּוֹת הַזְּמָן הָטְבַּעְתִּי. אַךְ הֻגֵּד הֻגַּד לִי כִּי פְלוֹנִי
 אַלְמוֹנִי הִדְפִּיס אֶת שִׁירָתוֹ. אֲשֶׁר חִבֵּר נֶגֶד נָשִׁים
-לְבָשְׁתּוֹ. וַיִקְרָא אֶת שְׁמָהּ “דָּבָר בְּעִתּוֹ”. וְאָז חִבַּרְתִּי
-כְנֶגְדוֹ שִׁירַת בָּתִּים חֲמִשִּׁים. וְקָרָאתִי אוֹתָהּ “מָגֵן
-נָשִׁים”. הוּא חִבֵּר שִׁירָתוֹ בִּלְשׁוֹן לוֹעֲזִים וְעִבְרִים. עַל
+לְבָשְׁתּוֹ. וַיִקְרָא אֶת שְׁמָהּ "דָּבָר בְּעִתּוֹ". וְאָז חִבַּרְתִּי
+כְנֶגְדוֹ שִׁירַת בָּתִּים חֲמִשִּׁים. וְקָרָאתִי אוֹתָהּ "מָגֵן
+נָשִׁים". הוּא חִבֵּר שִׁירָתוֹ בִּלְשׁוֹן לוֹעֲזִים וְעִבְרִים. עַל
 כֵּן אַף גַּם זֹאת חִבַּרְתִּי אֲנִי מִלְשׁוֹן קֹדֶשׁ וְזָרִים. אַךְ
 אָמַרְתִּי תִּהְיֶה אֶצְלִי שְׁמוּרָה. לְיוֹם זָדוֹן וְעֶבְרָה:
 
@@ -34,8 +30,8 @@
 
 
 וַיְהִי הַיּוֹם הִנֵּה אִשָּׁה לְמוּלִי. וַתֹאמֶר אֵלַי
-“הֻגֵּד הֻגַּד לִי. כִּי לְמָגֵן נָשִׁים שַׁרְתָּ שִׁירָה חֲדָשָׁה. נָא
-בִלְשׁוֹן בַּקָּשָׁה תְּנֶנָּה לִי לְמוֹרָשָׁה”. וַתִּפְצַר בִּי עַד
+"הֻגֵּד הֻגַּד לִי. כִּי לְמָגֵן נָשִׁים שַׁרְתָּ שִׁירָה חֲדָשָׁה. נָא
+בִלְשׁוֹן בַּקָּשָׁה תְּנֶנָּה לִי לְמוֹרָשָׁה". וַתִּפְצַר בִּי עַד
 כִּי נֶאֱלַמְתִּי. וּלְסָרֵב אֶל מַעֲלָתָהּ נִכְלָמְתִּי. וְעַתָּה כִּי
 שִׁירָתִי זֹאת אֲשֶׁר חָשַׁבְתִּי לְאַיִן. הִיא מוּצֵאת וְהִיא שְׁלוּחָה
 לָבוֹא הַיּוֹם אֶל הָעַיִן. אָמַרְתִּי: אֶת רֹאשָׁהּ לֹא תָּרִים. פֶּן
@@ -148,7 +144,7 @@ Dammi aiuto a la contesa
 
 
 
-E co’l mondo villania.
+E co'l mondo villania.
 
 
 
@@ -160,7 +156,7 @@ E co’l mondo villania.
 
 
 
-Già d’un nostro mantovano
+Già d'un nostro mantovano
 
 
 
@@ -172,7 +168,7 @@ A biasmarvi in modo strano
 
 
 
-Ch’in ciò ben fu matto e vano
+Ch'in ciò ben fu matto e vano
 
 
 
@@ -262,7 +258,7 @@ Che vuol gir per mala via.
 
 
 
-Donna mai c’huomo chiamasse
+Donna mai c'huomo chiamasse
 
 
 
@@ -270,11 +266,11 @@ Donna mai c’huomo chiamasse
 
 
 
-E che addosso se’l tirasse
+E che addosso se'l tirasse
 
 
 
-Et s’alcuna un humo amasse
+Et s'alcuna un humo amasse
 
 
 
@@ -284,7 +280,7 @@ Et s’alcuna un humo amasse
 
 
 
-Per sfacciata ch’ella sia.
+Per sfacciata ch'ella sia.
 
 
 
@@ -308,7 +304,7 @@ E malvagi iniqui e tristi
 
 
 
-Che par lor far grand’acquisti
+Che par lor far grand'acquisti
 
 
 
@@ -330,7 +326,7 @@ Qualche donna honesta e pia.
 
 
 
-D’alcun pazzo da catena
+D'alcun pazzo da catena
 
 
 
@@ -352,7 +348,7 @@ gettar volgia a man piena
 
 
 
-Ch’una donna lo desvia.
+Ch'una donna lo desvia.
 
 
 
@@ -364,7 +360,7 @@ Ch’una donna lo desvia.
 
 
 
-Ch’ogn’un causa il proprio male
+Ch'ogn'un causa il proprio male
 
 
 
@@ -376,7 +372,7 @@ Quei che in zucca hanno del sale
 
 
 
-Anzi pur gli preston l’ale
+Anzi pur gli preston l'ale
 
 
 
@@ -420,7 +416,7 @@ Fatto ha dunq la natura
 
 
 
-Per che al bel l’un l’altro invia.
+Per che al bel l'un l'altro invia.
 
 
 
@@ -432,7 +428,7 @@ Per che al bel l’un l’altro invia.
 
 
 
-Dando all’huom xompagnia tale
+Dando all'huom xompagnia tale
 
 
 
@@ -470,7 +466,7 @@ Se tal volta arde un papaggio?
 
 
 
-E s’un huomo poco saggio
+E s'un huomo poco saggio
 
 
 
@@ -568,7 +564,7 @@ Del lor esser tutti ghiaccio
 
 
 
-Un che a l’amoroso laccio
+Un che a l'amoroso laccio
 
 
 
@@ -598,7 +594,7 @@ Da un hortolano apunto
 
 
 
-Habbia mal ci’l granfio giunto
+Habbia mal ci'l granfio giunto
 
 
 
@@ -612,7 +608,7 @@ Che par che sprezzi il pan unto
 
 
 
-Quel boccon ch’ei pur vorria.
+Quel boccon ch'ei pur vorria.
 
 
 
@@ -636,7 +632,7 @@ Come legno secco al foco
 
 
 
-Et ogn’un d’esser si fioco
+Et ogn'un d'esser si fioco
 
 
 
@@ -666,7 +662,7 @@ Chiaman poi vitii e difetti
 
 
 
-Allhor ch’eran giovinetti
+Allhor ch'eran giovinetti
 
 
 
@@ -696,7 +692,7 @@ Sopra tutte in generale
 
 
 
-Sù la testa a tale e’a quale
+Sù la testa a tale e'a quale
 
 
 
@@ -744,7 +740,7 @@ Di modern donne e antique
 
 
 
-Non com’essi la bugia.
+Non com'essi la bugia.
 
 
 
@@ -764,7 +760,7 @@ Che già furo al tempo antico
 
 
 
-A narrar no m’affatico
+A narrar no m'affatico
 
 
 
@@ -798,7 +794,7 @@ Per sua gratia e sui cirtuti
 
 
 
-Poi c’havea gl’hebrei venduti
+Poi c'havea gl'hebrei venduti
 
 
 
@@ -832,7 +828,7 @@ Gia scampò Naval da morte
 
 
 
-Degna al fin d’esser consorta
+Degna al fin d'esser consorta
 
 
 
@@ -914,7 +910,7 @@ Perchè assai donne e donzelle
 
 
 
-De lor laudi in l’età pria.
+De lor laudi in l'età pria.
 
 
 
@@ -926,7 +922,7 @@ De lor laudi in l’età pria.
 
 
 
-Ch’ogn’hor co’l pensier inchino
+Ch'ogn'hor co'l pensier inchino
 
 
 
@@ -934,7 +930,7 @@ Ch’ogn’hor co’l pensier inchino
 
 
 
-Per l’ingiuria di Tarquino
+Per l'ingiuria di Tarquino
 
 
 
@@ -948,7 +944,7 @@ Onde poi mori il meschino
 
 
 
-Al honor che mai s’oblia.
+Al honor che mai s'oblia.
 
 
 
@@ -960,7 +956,7 @@ Al honor che mai s’oblia.
 
 
 
-Corse un altra a tor de l’acque
+Corse un altra a tor de l'acque
 
 
 
@@ -968,7 +964,7 @@ Corse un altra a tor de l’acque
 
 
 
-Tanto a lei l’infamia spiacque
+Tanto a lei l'infamia spiacque
 
 
 
@@ -1006,7 +1002,7 @@ Per scamper da infamia fella
 
 
 
-Patir volsa morte, ond’ella
+Patir volsa morte, ond'ella
 
 
 
@@ -1016,7 +1012,7 @@ Patir volsa morte, ond’ella
 
 
 
-Per fuggir nime d’impia
+Per fuggir nime d'impia
 
 
 
@@ -1040,7 +1036,7 @@ De virtù ferme colonne
 
 
 
-E c’han fatto in treccie e’n gonne
+E c'han fatto in treccie e'n gonne
 
 
 
@@ -1062,7 +1058,7 @@ Con lor arme et leggiadria,
 
 
 
-Che a biasimarle perdi l’opre
+Che a biasimarle perdi l'opre
 
 
 
@@ -1084,7 +1080,7 @@ E vedrai quanto honor cuopre
 
 
 
-De l’hebraica signoria.
+De l'hebraica signoria.
 
 
 
@@ -1108,7 +1104,7 @@ Tra Salerno e tra Gaieta
 
 
 
-D’indi usci la mansueta
+D'indi usci la mansueta
 
 
 
@@ -1232,7 +1228,7 @@ Con sua morte acerba e ria.
 
 
 
-Che in più grado d’honor saglia
+Che in più grado d'honor saglia
 
 
 
@@ -1240,7 +1236,7 @@ Che in più grado d’honor saglia
 
 
 
-Huomo certo non l’agguaglia
+Huomo certo non l'agguaglia
 
 
 
@@ -1304,11 +1300,11 @@ Di virtù supreme adorna
 
 
 
-Ch’anco honora casa Sforna
+Ch'anco honora casa Sforna
 
 
 
-Diamante è il nome ch’orna
+Diamante è il nome ch'orna
 
 
 
@@ -1318,7 +1314,7 @@ Diamante è il nome ch’orna
 
 
 
-Degna d’ognu signoria.
+Degna d'ognu signoria.
 
 
 
@@ -1364,7 +1360,7 @@ A affogarvi chiurma ria.
 
 
 
-D’una dolce alma Ascolana
+D'una dolce alma Ascolana
 
 
 
@@ -1372,7 +1368,7 @@ D’una dolce alma Ascolana
 
 
 
-La creò sopr’humana
+La creò sopr'humana
 
 
 
@@ -1386,7 +1382,7 @@ La cognate sua Diana
 
 
 
-D’ogna gratia cortesia.
+D'ogna gratia cortesia.
 
 
 
@@ -1398,7 +1394,7 @@ D’ogna gratia cortesia.
 
 
 
-Ch’in la patria mia n’è copia
+Ch'in la patria mia n'è copia
 
 
 
@@ -1444,7 +1440,7 @@ Spend oil tempo in vanitade
 
 
 
-Gia sapete ch’ogni etade
+Gia sapete ch'ogni etade
 
 
 
@@ -1466,7 +1462,7 @@ Per una empia che vi sia.
 
 
 
-Ben vedete altrui negl’occhi
+Ben vedete altrui negl'occhi
 
 
 
@@ -1478,7 +1474,7 @@ Non sapete torvi o sciocchi
 
 
 
-Ond’è forza un dì ch’io scocchi
+Ond'è forza un dì ch'io scocchi
 
 
 
@@ -1522,7 +1518,7 @@ Che se havuto non havete
 
 
 
-Ch’è per vosta poltronia.
+Ch'è per vosta poltronia.
 
 
 
@@ -1542,7 +1538,7 @@ In lor biasmo componeste
 
 
 
-O che’l ben non conosceste
+O che'l ben non conosceste
 
 
 
@@ -1692,7 +1688,7 @@ Et se in me costume appare
 
 
 
-Che senza essa io no l’hauria.
+Che senza essa io no l'hauria.
 
 
 

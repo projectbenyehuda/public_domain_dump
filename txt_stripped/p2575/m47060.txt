@@ -1,8 +1,4 @@
-
-
-
-	
-	דבר בעתו:
+דבר בעתו:
 	
 
 
@@ -38,16 +34,16 @@
 
 
 
-Motto:   “Wie in den Lüften der Sturmwind saust,
+Motto:   "Wie in den Lüften der Sturmwind saust,
 Man weiß nicht, von wannen er kommt und braust,
 Wie der Quell aus verborgenen Tiefen,
 So des Sängers Lied aus dem Innern schallt
 Und wecket der dunkeln Gefühle Gewalt,
-Die im Herzen wunderbar schliefen”
+Die im Herzen wunderbar schliefen"
 
-&gt; 
+ 
 
-&gt; 
+ 
 
 
 

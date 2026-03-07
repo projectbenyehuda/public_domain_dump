@@ -1,8 +1,4 @@
-
-
-
-	
-	ביום אשר נכתר
+ביום אשר נכתר
 	
 
 
@@ -236,51 +232,51 @@
 
 
 
-Hydrographia &nbsp;↩
+Hydrographia &nbsp;↩︎
 
 
 
-Astronomia &nbsp;↩
+Astronomia &nbsp;↩︎
 
 
 
-Agraria &nbsp;↩
+Agraria &nbsp;↩︎
 
 
 
-Physica &nbsp;↩
+Physica &nbsp;↩︎
 
 
 
-Dynamic &nbsp;↩
+Dynamic &nbsp;↩︎
 
 
 
-Hydrometria &nbsp;↩
+Hydrometria &nbsp;↩︎
 
 
 
-Hydrodinamica &nbsp;↩
+Hydrodinamica &nbsp;↩︎
 
 
 
-Algebra &nbsp;↩
+Algebra &nbsp;↩︎
 
 
 
-Gnomonica &nbsp;↩
+Gnomonica &nbsp;↩︎
 
 
 
-Geometria and Geodesia &nbsp;↩
+Geometria and Geodesia &nbsp;↩︎
 
 
 
-Anemometria &nbsp;↩
+Anemometria &nbsp;↩︎
 
 
 
-Hydrostatrica &nbsp;↩
+Hydrostatrica &nbsp;↩︎
 
 
 
